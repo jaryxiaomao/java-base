@@ -1,5 +1,7 @@
 # java-base
 java一些基础东西
-java内存得某些相关的概念 http://blog.csdn.net/shimiso/article/details/8595564
+java jvm内存分配的一些相关概念 可以参考 http://boy00fly.iteye.com/blog/1095263
+总体来说 
+
 
 
